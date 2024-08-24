@@ -9,7 +9,8 @@ Simple chesshack (using StockFish)
 ```
 pip install -r requirements.txt
 ```
-Также обязательно скачайте библиотеку 'stockfish' с GitHub, без неё программа работать не будет! Затем распакуйте в папку '../chesshack/'
+Также обязательно скачайте библиотеку 'stockfish' с GitHub, без неё программа работать не будет! Затем распакуйте в папку '../chesshack/'.
+
 Скачать её можно по этой ссылке: https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip
 
 ## Обучение
